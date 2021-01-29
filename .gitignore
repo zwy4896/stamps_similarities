@@ -1,2 +1,4 @@
+.gitignore
 *.pth
 __pycache__/
+checkpoints/
